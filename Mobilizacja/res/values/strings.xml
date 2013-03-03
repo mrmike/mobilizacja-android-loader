@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobilizacja</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Menu buttons -->
+    <string name="menu_getdata">Download data</string>
+    <string name="menu_listview_example">ListView example</string>
+    <string name="menu_listview_anim">ListView with animation</string>
+    <string name="menu_clear_db">Clear db</string>
+
+</resources>
